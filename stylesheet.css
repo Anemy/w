@@ -65,3 +65,10 @@ a {
 .nice-link:hover::after {
   width: 100%;
 }
+
+.email-container {
+  margin-top: 1.5em;
+  font-family: sans-serif;
+}
+
+.email-link { }
